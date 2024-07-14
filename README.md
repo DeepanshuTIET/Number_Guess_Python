@@ -18,10 +18,10 @@ Welcome to the Number Guessing Game! This is a simple Python game where the comp
 ## How to Run
 
 1. Make sure you have Python 3.x installed on your system.
-2. Save the script as `number_guessing_game.py`.
+2. Save the script as `Number_guess.py`.
 3. Open your terminal or command prompt.
-4. Navigate to the directory where `number_guessing_game.py` is saved.
-5. Run the script by typing `python number_guessing_game.py`.
+4. Navigate to the directory where `Number_guess.py` is saved.
+5. Run the script by typing `python Number_guess.py`.
 
 ```bash
-python number_guessing_game.py
+python Number_guess.py
